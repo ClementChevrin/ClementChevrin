@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClementChevrin
-- 👀 I’m interested in design mobile and web
-- 💻 I’m currently learning C#, Python, Java, HTML/CSS/JS
+- 👀 I’m interested in Web
+- 💻 I’m currently learning Symfony, Typescript, Sass
 - 📫 Reach me by mail at clement.chevrin@gmail.com 
 
 <!---
